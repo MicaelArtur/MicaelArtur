@@ -1,4 +1,4 @@
-## Olá! me chamo Micael
+## Olá! sou Micael
 
 -💻 estudando: Java
 
