@@ -17,7 +17,7 @@ Atualmente focado em **Data Engineering, Back-End e desenvolvimento de APIs**
 
 ---
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <div align="center">
 
@@ -39,7 +39,7 @@ Atualmente focado em **Data Engineering, Back-End e desenvolvimento de APIs**
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 ```text
 Python
