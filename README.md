@@ -6,17 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/MicaelArtur">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicaelArtur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelArtur&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ## 🚀 Languages and Tools
 
 <div align="left">
