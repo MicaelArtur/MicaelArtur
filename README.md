@@ -1,7 +1,7 @@
 # Olá, eu sou o Micael Artur 👋
 
 💻 Estudante de **Back-End e Engenharia de Dados**  
-🐍 Python | ☕ Java | 🗄️ SQL  
+Python | Java | SQL  
 📊 Atualmente focado em **Data Engineering, Back-End e desenvolvimento de APIs**
 
 ---
