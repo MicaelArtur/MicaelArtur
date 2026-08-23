@@ -6,15 +6,14 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 - 🎓 Estudando desenvolvimento Back-End e Engenharia de Dados
-- 🐍 Aprendendo e desenvolvendo projetos com Python
-- ☕ Desenvolvendo conhecimentos em Java e Spring Boot
-- 🗄️ Estudando SQL e bancos de dados
-- 🔗 Estudando desenvolvimento de APIs REST
-- 📊 Construindo minha base para atuar como **Data Engineer**
-- 💡 Interessado em tecnologia, dados, automação e Inteligência Artificial
+- Aprendendo e desenvolvendo projetos com Python
+- Desenvolvendo conhecimentos em Java e Spring Boot
+- Estudando SQL e bancos de dados
+- Estudando desenvolvimento de APIs REST
+- Construindo minha base para atuar como **Data Engineer**
 
 ---
 
