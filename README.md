@@ -1,35 +1,57 @@
-### Olá eu Sou o Micael Artur 👋
+# Olá, eu sou o Micael Artur 👋
 
-- 🔭 Hoje estudo com Back-End - data engineer ...
-________________________________________________________
+💻 Estudante de **Back-End e Engenharia de Dados**
+🐍 Python | ☕ Java | 🗄️ SQL
+📊 Atualmente focado em **Data Engineering, Back-End e desenvolvimento de APIs**
 
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/MicaelArtur">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicaelArtur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelArtur&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MicaelArtur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelArtur&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 
-  <div style="display: inline_block"><br><h3 align="left">Languages and Tools:</h3>
-  <img align="center" alt="Dev-Java" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Dev-Python" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="Dev-MySQL" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Dev-Spring" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
-  <img align="center" alt="Dev-Bootstrap" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dev-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    
-</div>
-  
- ##
-  
-  <div><h3 align="left">how to have my contact</h3>
-  <a href = "mailto:micatrinarti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/micael-artur-9b0b66241" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
- 
+---
 
- 
- 
+## 🚀 Languages and Tools
+
+<div align="left">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+</div>
+
+---
+
+## 📚 Atualmente estudando
+
+* 🐍 Python
+* ☕ Java
+* 🗄️ SQL e bancos de dados
+* 🌱 Spring Boot
+* 🔗 APIs REST
+* 📊 Engenharia de Dados
+* 🐧 Linux
+* ☁️ Cloud Computing
+
+---
+
+## 📫 Contato
+
+<div>
+  <a href="mailto:micatrinarti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/micael-artur-9b0b66241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
