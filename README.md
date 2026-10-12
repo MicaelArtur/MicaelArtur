@@ -1,10 +1,7 @@
 # Olá, eu sou o Micael Artur 👋
 
-.Estudante de **Back-End e Engenharia de Dados**  
-Python | Java | SQL  
-Atualmente focado em **Data Engineering - Back-End**
-
-.Tecnologias que já utilizei: Java, Spring Boot, JPA/Hibernate, SQL, MySQL, HTML, CSS e JavaScript.
+.Estudante de **Back-End**
+.Tecnologias que já utilizei: Python, Java, Spring Boot, SQL, MySQL, HTML, CSS e JavaScript.
 
 ---
 
@@ -42,9 +39,7 @@ Atualmente focado em **Data Engineering - Back-End**
 ## Atualmente estudando
 
 ```text
-Engenharia de Dados
-Python
-SQL
-MySQL
-Back-End
-Cloud Computing
+JAVA / JPA + Hibernate
+Spring Boot
+Maven
+PostgreSQL
