@@ -7,10 +7,9 @@
 
 ## Sobre mim
 
-- 🎓 Estudando desenvolvimento Back-End e Engenharia de Dados
-- Aprendendo e desenvolvendo projetos com Python
-- Estudando SQL e bancos de dados
-- Construindo minha base para atuar como **Data Engineer**
+- 🎓 Estudando desenvolvimento Back-End
+- Aprendendo e desenvolvendo projetos com JAVA
+- Construindo minha base para atuar como **Desenvolvedor Back-End**
 
 ---
 
